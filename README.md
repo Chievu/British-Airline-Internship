@@ -1,5 +1,5 @@
 # British-Airline-Internship
-This is the repository for my internship in British airline where i worked on customer reviews to get insight. 
+This is the repository for my internship in British airline (Forage) where i worked on customer reviews to get insight. 
 This project focuses on analyzing customer feedback for British Airways to gain actionable insights into passenger experiences. By leveraging Natural Language Processing (NLP) techniques, the project processes and extracts meaningful information from unstructured textual data. The ultimate goal is to help the company improve passenger satisfaction and identify areas for targeted enhancements.
 
 Features
